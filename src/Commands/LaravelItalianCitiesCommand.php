@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Chiariello\LaravelItalianCities\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelItalianCitiesCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-italian-cities';
 
     public $description = 'My command';
 
